@@ -38,6 +38,13 @@ A retail wine & spirits company manages millions of transactions across location
 7. **Task 5: Lead Time Analysis**  
    Evaluated supplier delays and procurement inefficiencies.
 
+## 📦 Dataset Access
+
+Due to file size limitations on GitHub, the dataset is hosted externally on Kaggle. You can access and download it from the following link:
+
+🔗 [Slooze Take-Home Challenge Dataset on Kaggle](https://www.kaggle.com/datasets/sloozecareers/slooze-challenge/data)
+
+
 ## 📁 Files Included
 
 | File Name                   | Description                         |
